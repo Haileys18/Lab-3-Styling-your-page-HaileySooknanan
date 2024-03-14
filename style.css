@@ -1,0 +1,22 @@
+h2, h3, h4, h5, h6{
+  background-color: #DDA0DD;
+  color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+}
+hr{
+  color: paleturquoise;
+}
+body{
+  background-color: #F0F8FF;
+}
+p{
+  color: #d298f0;
+  font-family: 'Times New Roman', Times, serif;
+  border:10px;
+  border-radius:20%; 
+  border-color: black; 
+  border-style: double;
+  font-size: 18px;
+padding: 20px;
+  background-color: white;
+  }
